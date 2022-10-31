@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 module Omniauth
-  module Etsy
+  module EtsyOauth
     VERSION = '0.2.0'
   end
 end

@@ -4,7 +4,7 @@ require_relative 'lib/omniauth/etsy/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'omniauth-etsy-oauth2'
-  spec.version       = Omniauth::Etsy::VERSION
+  spec.version       = Omniauth::EtsyOauth::VERSION
   spec.authors       = ['Ulan Djamanbalaev']
   spec.email         = ['udjamanbalaev@gmail.com']
 

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-RSpec.describe OmniAuth::Strategies::Etsy do
+RSpec.describe OmniAuth::Strategies::EtsyOauth do
   let(:options) { {} }
 
   subject { described_class.new(nil, options) }
