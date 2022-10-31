@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative 'lib/omniauth/etsy/version'
+require_relative 'lib/omniauth/etsy_oauth/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'omniauth-etsy-oauth2'
